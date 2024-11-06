@@ -1,7 +1,7 @@
 ![logo](https://github.com/ahmaddabeer/ahmaddabeer/blob/main/Hello%2C%20my%20name%20is%20Dabeer.%20Nice%20to%20meet%20you..png)
 
-<h1 align="center">Hi 👋, I'm DABEER AHMAD</h1>
-<h3 align="center">A passiona Software Engineer from India</h3>
+<h1 align="center">Hello 👋, Welcome to My GitHub Profile</h1>
+<h3 align="center">Software Engineer and Technology Enthusiast from India, Focused on Creating Efficient and Scalable Solutions</h3>
 
 <img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/24c6287be76c155a12345cb131d1379589070ec28c94088f4582f19d3a1865e9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313237322f312a5a53566d57476363317765454e6230536861775778772e676966">
 
