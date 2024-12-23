@@ -4,7 +4,8 @@
 <h1 align="center" style="color:#FF4500; font-weight:bold;">Welcome to My GitHub Profile</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" style="border-radius: 10px; width:100%;  height: 25vh">
+<img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" style="border-radius: 10px; width:100%; height: auto; object-fit: cover;">
+
 </p>
 
 <p align="center"> 
