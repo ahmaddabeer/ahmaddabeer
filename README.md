@@ -23,7 +23,7 @@
   </ul>
 
 </div>
-<div>  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif?cid=6c09b9527z0v3k5odcwd98ytc87bo7rp6eaxh5sodcnp81uf&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="border-radius: 25px; width: 100px; height: 100px;"></div>
+
 
 ---
 
@@ -70,11 +70,18 @@
 
 ---
 
-<h2 align="center" style="color:#DC143C;">⚡ About Me:</h2>
+<h2 align="center" style="color:#DC143C; font-family: 'Arial', sans-serif;">⚡ About Me</h2>
+<div align="center">
+  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif?cid=6c09b9527z0v3k5odcwd98ytc87bo7rp6eaxh5sodcnp81uf&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
+       style="border-radius: 25px; width: 120px; height: 120px; margin-bottom: 15px;">
+</div>
 <div style="display: flex; align-items: center; justify-content: center;">
-  <div style="background-color:#1A1A40; padding: 15px; color:#FFFFFF; border-radius: 10px; font-size: 18px; width: 70%;">
-    A passionate coder always seeking to innovate, solve complex problems, and push the boundaries of technology. Let’s build something amazing together! 🌟
+  <div style="background-color:#1A1A40; padding: 20px; color:#FFFFFF; border-radius: 15px; font-size: 20px; width: 70%; text-align: center;">
+    A passionate coder always seeking to innovate, solve complex problems, and push the boundaries of technology. 💻✨<br><br>
+    Let’s build something amazing together! 🚀🔥<br><br>
+    <strong>Skills & Interests:</strong> 💡 Problem Solving | 🤖 AI | 🌐 Web Development | 📱 Mobile Apps | 📚 Learning & Growth
   </div>
 </div>
+
 
 </html>
