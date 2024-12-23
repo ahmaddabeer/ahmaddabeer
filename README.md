@@ -4,7 +4,7 @@
 <h1 align="center" style="color:#FF4500; font-weight:bold;">Welcome to My GitHub Profile</h1>
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/cbc69a17085171.562b572169e35.gif" alt="Coding GIF" width="400" style="border-radius: 10px;">
+  <img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" style="border-radius: 10px; width:100%;">
 </p>
 
 <p align="center"> 
@@ -13,14 +13,16 @@
 
 ---
 
-<div style="background-color:#1E1E2F; padding: 15px; border-radius: 12px; color: #FFFFFF;">
-  <ul style="list-style: none;">
+<div style="background-color:#1E1E2F; padding: 15px; border-radius: 12px; color: #FFFFFF; display: flex; align-items: center; justify-content: space-between;">
+  <ul style="list-style: none; margin: 0; padding: 0; width: 70%;">
     <li>🌱 I’m currently mastering <strong style="color:#FF6347;">C Programming</strong> and expanding my coding arsenal.</li>
     <li>💬 Ask me about <strong style="color:#00CED1;">HTML, CSS, or logical problem-solving</strong>.</li>
     <li>📫 Reach me at: <a href="mailto:ahmaddabeer36@gmail.com" style="color:#4CAF50; text-decoration:none;">ahmaddabeer36@gmail.com</a></li>
     <li>🚀 Fun Fact: I thrive on challenges and new technologies!</li>
   </ul>
+
 </div>
+<div>  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif?cid=6c09b9527z0v3k5odcwd98ytc87bo7rp6eaxh5sodcnp81uf&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="border-radius: 25px; width: 100px; height: 100px;"></div>
 
 ---
 
@@ -68,8 +70,10 @@
 ---
 
 <h2 align="center" style="color:#DC143C;">⚡ About Me:</h2>
-<p align="center" style="background-color:#1A1A40; padding: 15px; color:#FFFFFF; border-radius: 10px; font-size: 18px;">
-  A passionate coder always seeking to innovate, solve complex problems, and push the boundaries of technology. Let’s build something amazing together! 🌟
-</p>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="background-color:#1A1A40; padding: 15px; color:#FFFFFF; border-radius: 10px; font-size: 18px; width: 70%;">
+    A passionate coder always seeking to innovate, solve complex problems, and push the boundaries of technology. Let’s build something amazing together! 🌟
+  </div>
+</div>
 
 </html>
