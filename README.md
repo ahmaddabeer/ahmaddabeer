@@ -9,7 +9,7 @@
 
 ---
 
-<h2 align="center" style="color:#FFA500;">📊 GitHub Stats</h2>
+
 <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=ahmaddabeer" alt="ahmaddabeer GitHub Stats">
 </p>
