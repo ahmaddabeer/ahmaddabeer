@@ -19,7 +19,7 @@
 
 ---
 
-<h2 align="center" style="color:#DC143C;">⚡ About Me</h2>
+<h2 align="center" style="color:#DC143C;">✨ About Me</h2>
 <p align="center">
   🌱 Passionate about coding, problem-solving, and building impactful projects. Let’s innovate together! 🚀<br>
   💬 Reach me at: <a href="mailto:ahmaddabeer36@gmail.com" style="color:#4CAF50; text-decoration:none;">ahmaddabeer36@gmail.com</a>
