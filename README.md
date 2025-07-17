@@ -9,7 +9,7 @@
 </p>
 
 
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=ahmaddabeer" alt="Profile Views" />
 </p>
 
