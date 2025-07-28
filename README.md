@@ -52,6 +52,12 @@
 |[Iknow_Repeat](https://github.com/ahmaddabeer/iknow_Repeat)|
 |:----------:|
 
+<h2> 2nd Semester Project </h2>
+
+
+|[BMI Buddy](https://github.com/ahmaddabeer/BMI-Buddy/blob/main/README.md)|
+|:----------:|
+
 
 
 
