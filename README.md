@@ -28,7 +28,7 @@
 <h2 align="left"> About Me 🚀</h2>
 
 - 🎓 B.Tech CSE Student at **Sambhunath Institute of Engineering and Technology**
-- 📊 1st Semester CGPA: **7.9**
+- 📊 1st Semester CGPA: **7.09**
 - 📱 Learning **Android Development** (Java, Firebase, MVVM)
 - 💡 Interested in building real-world mobile apps
 - 🧠 Love **problem-solving** and logical thinking
