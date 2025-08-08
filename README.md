@@ -58,6 +58,9 @@
 |[BMI Buddy](https://github.com/ahmaddabeer/BMI-Buddy/blob/main/README.md)|
 |:----------:|
 
+|[MySocietyHub](https://github.com/ahmaddabeer/MySocietyHub/blob/main/README.md)|
+|:----------:|
+
 
 
 
