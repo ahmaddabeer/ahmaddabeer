@@ -28,7 +28,7 @@
 
 <h2 align="left"> About Me 🚀</h2>
 
-- 🎓 B.Tech CSE Student at **Sambhunath Institute of Engineering and Technology**
+- 🎓 B.Tech CSE Student at Sambhunath Institute of Engineering and Technology (Affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow)
 - 📊 1st Semester SCGPA: **7.09**
 - 📱 Learning **Android Development** (Java, Firebase, MVVM)
 - 💡 Interested in building real-world mobile apps
