@@ -19,7 +19,8 @@
   </a>
   
   <a href="https://github.com/ahmaddabeer/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmaddabeer&layout=compact&title_color=FF2E63&text_color=57D1C9&bg_color=151515" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmaddabeer&layout=compact&title_color=FF2E63&text_color=57D1C9&bg_color=151515&cache_seconds=1000" />
+
   </a>
 </p>
 
