@@ -42,7 +42,7 @@
 
 <h2>My Own Projects</h2>
 
-<h3>1st Semester (Projects I created myself)</h3>
+<h3>1st Semester</h3>
 
 |[RandView](https://github.com/ahmaddabeer/RandView) 
 |:----------:|
@@ -53,7 +53,7 @@
 |[Iknow Repeat](https://github.com/ahmaddabeer/iknow_Repeat)
 |:----------:|
 
-<h3>2nd Semester (Projects I created myself)</h3>
+<h3>2nd Semester</h3>
 
 |[BMI Buddy](https://github.com/ahmaddabeer/BMI-Buddy/blob/main/README.md)
 |:----------:|
@@ -64,7 +64,7 @@
 |[SIET First Year](https://github.com/ahmaddabeer/SIET-First-Year/blob/main/README.md)
 |:----------:|
 
-<h3>3rd Semester (Upcoming Projects)</h3>
+<h3>3rd Semester (Upcoming Projects</h3>
 
 |Coming Soon...|
 |:----------:|
