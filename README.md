@@ -40,29 +40,33 @@
  | [Show Resume](https://github.com/user-attachments/files/21278033/DabeerAhmad_P_Resume.pdf) |
 | :-------------------------------------: |
 
-<h2> 1st Semester Project </h2>
+<h2>My Own Projects</h2>
 
+<h3>1st Semester (Projects I created myself)</h3>
 
-|[RandView](https://github.com/ahmaddabeer/RandView)|
+|[RandView](https://github.com/ahmaddabeer/RandView) 
 |:----------:|
 
-
-|[To-Do_List](https://github.com/ahmaddabeer/To-Do_List)|
+|[To-Do List](https://github.com/ahmaddabeer/To-Do_List) 
 |:----------:|
 
-|[Iknow_Repeat](https://github.com/ahmaddabeer/iknow_Repeat)|
+|[Iknow Repeat](https://github.com/ahmaddabeer/iknow_Repeat)
 |:----------:|
 
-<h2> 2nd Semester Project </h2>
+<h3>2nd Semester (Projects I created myself)</h3>
 
-
-|[BMI Buddy](https://github.com/ahmaddabeer/BMI-Buddy/blob/main/README.md)|
+|[BMI Buddy](https://github.com/ahmaddabeer/BMI-Buddy/blob/main/README.md)
 |:----------:|
 
-|[MySocietyHub](https://github.com/ahmaddabeer/MySocietyHub/blob/master/README.md)|
+|[MySocietyHub](https://github.com/ahmaddabeer/MySocietyHub/blob/master/README.md)
 |:----------:|
 
-|[SIET First Year](https://github.com/ahmaddabeer/SIET-First-Year/blob/main/README.md)|
+|[SIET First Year](https://github.com/ahmaddabeer/SIET-First-Year/blob/main/README.md)
+|:----------:|
+
+<h3>3rd Semester (Upcoming Projects)</h3>
+
+|Coming Soon...|
 |:----------:|
 
 
