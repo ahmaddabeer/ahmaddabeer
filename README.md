@@ -37,7 +37,7 @@
 - 📍 Location: **Allahabad (Prayagraj), India**
 - 📧 Email: [ahmaddabeer36@gmail.com](mailto:ahmaddabeer36@gmail.com)
   
- | [Show Resume](https://github.com/user-attachments/files/21278033/DabeerAhmad_P_Resume.pdf) |
+ | [Show Resume]([Resume.pdf](https://github.com/user-attachments/files/34408812/Resume.pdf) |
 | :-------------------------------------: |
 
 <h2>My Own Projects</h2>
