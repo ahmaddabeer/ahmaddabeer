@@ -64,7 +64,7 @@
 |[SIET First Year](https://github.com/ahmaddabeer/SIET-First-Year/blob/main/README.md)
 |:----------:|
 
-<h3>3rd Semester (Upcoming Projects</h3>
+<h3>5rd Semester (Kotlin Jetpack compose Modern Framework - > Projects</h3>
 
 |Coming Soon...|
 |:----------:|
