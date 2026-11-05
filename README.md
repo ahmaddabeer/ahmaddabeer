@@ -66,7 +66,7 @@
 
 <h3>5rd Semester (Kotlin Jetpack compose Modern Framework - > Projects</h3>
 
-|Coming Soon...|
+|[QRGen](https://github.com/ahmaddabeer/QRGen/blob/master/README.md)|
 |:----------:|
 
 
