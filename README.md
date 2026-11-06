@@ -1,100 +1,88 @@
-<h1 align="center"> Hi there, I'm Dabeer Ahmad 👋 </h1>
+# Hi there, I'm Dabeer Ahmad 👋
 
-<h3 align="center"> Android Developer </h3>
-
-<p align="center">
-  <a href="https://github.com/ahmaddabeer?tab=repositories">
-    <img width="70%" src="https://github-widgetbox.vercel.app/api/profile?username=ahmaddabeer&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
-  </a>
-</p>
-
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ahmaddabeer" alt="Profile Views" />
-</p>
+### Android Developer | Kotlin | Jetpack Compose
 
 <p align="center">
-  <a href="https://github.com/ahmaddabeer/">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmaddabeer&show_icons=true&title_color=FF2E63&icon_color=bb2acf&text_color=57D1C9&bg_color=151515" width="450"/>
-  </a>
-  
-  <a href="https://github.com/ahmaddabeer/">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmaddabeer&layout=compact&title_color=FF2E63&text_color=57D1C9&bg_color=151515&cache_seconds=1000" />
-
+  <a href="https://github.com/ahmaddabeer">
+    <img width="70%" src="https://github-widgetbox.vercel.app/api/profile?username=ahmaddabeer&data=followers,repositories,stars,commits" alt="GitHub Profile"/>
   </a>
 </p>
 
-<hr>
+---
 
-<h2 align="left"> About Me 🚀</h2>
+## 🚀 About Me
 
-- 🎓 B.Tech CSE Student at Sambhunath Institute of Engineering and Technology (Affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow)
-- 📊 1st Semester SCGPA: **7.09**
-- 📱 Learning **Android Development** (Java, Firebase, MVVM)
-- 💡 Interested in building real-world mobile apps
-- 🧠 Love **problem-solving** and logical thinking
-- 🧑‍💻 Fresher | Eager to grow & build cool projects
-- 📍 Location: **Allahabad (Prayagraj), India**
+- 🎓 B.Tech Computer Science & Engineering Student (Pre-Final Year)
+- 🏫 Sambhunath Institute of Engineering and Technology, AKTU
+- 📱 Android Developer focused on **Kotlin & Jetpack Compose**
+- 💻 Interested in building modern, user-friendly Android applications
+- 🛠️ Experience with MVVM Architecture, Room Database and Firebase
+- 🌱 Continuously learning and improving my development skills
+- 📍 Prayagraj, Uttar Pradesh, India
 - 📧 Email: [ahmaddabeer36@gmail.com](mailto:ahmaddabeer36@gmail.com)
-  
- | [Show Resume]([Resume.pdf](https://github.com/user-attachments/files/34408812/Resume.pdf) |
-| :-------------------------------------: |
+- 📄 [View My Resume](https://github.com/user-attachments/files/34408812/Resume.pdf)
 
-<h2>My Own Projects</h2>
+---
 
-<h3>1st Semester</h3>
+## 🛠️ Tech Stack
 
-|[RandView](https://github.com/ahmaddabeer/RandView) 
-|:----------:|
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-|[To-Do List](https://github.com/ahmaddabeer/To-Do_List) 
-|:----------:|
+**Android Development:** MVVM, Room Database, REST API Integration, Android SDK, Android Studio.
 
-|[Iknow Repeat](https://github.com/ahmaddabeer/iknow_Repeat)
-|:----------:|
+---
 
-<h3>2nd Semester</h3>
+## 📂 My Projects
 
-|[BMI Buddy](https://github.com/ahmaddabeer/BMI-Buddy/blob/main/README.md)
-|:----------:|
+### Android Development
 
-|[MySocietyHub](https://github.com/ahmaddabeer/MySocietyHub/blob/master/README.md)
-|:----------:|
+| Project | Repository |
+|:---|:---:|
+| QRGen | [View Project](https://github.com/ahmaddabeer/QRGen) |
+| BMI Buddy | [View Project](https://github.com/ahmaddabeer/BMI-Buddy) |
+| MySocietyHub | [View Project](https://github.com/ahmaddabeer/MySocietyHub) |
+| SIET First Year | [View Project](https://github.com/ahmaddabeer/SIET-First-Year) |
+| RandView | [View Project](https://github.com/ahmaddabeer/RandView) |
+| To-Do List | [View Project](https://github.com/ahmaddabeer/To-Do_List) |
+| Iknow Repeat | [View Project](https://github.com/ahmaddabeer/iknow_Repeat) |
 
-|[SIET First Year](https://github.com/ahmaddabeer/SIET-First-Year/blob/main/README.md)
-|:----------:|
+---
 
-<h3>5rd Semester (Kotlin Jetpack compose Modern Framework - > Projects</h3>
+## 📊 GitHub Statistics
 
-|[QRGen](https://github.com/ahmaddabeer/QRGen/blob/master/README.md)|
-|:----------:|
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmaddabeer&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmaddabeer&layout=compact&theme=tokyonight"/>
+</p>
 
+---
 
+## 🤝 Connect With Me
 
+<p align="left">
+  <a href="mailto:ahmaddabeer36@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dabeer-ahmad-70662b327/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/DABEER_AHMAD/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://github.com/ahmaddabeer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
+---
 
-
-
-
-<h2>Contact with me</h2>
-
-<a href="mailto:ahmaddabeer36@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a> &nbsp;
-
-<a href="https://www.linkedin.com/in/dabeer-ahmad-70662b327/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a> &nbsp;
-
-<a href="https://leetcode.com/u/DABEER_AHMAD/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-gray?style=for-the-badge&logo=leetcode&logoColor=orange" alt="Leetcode">
-</a>
-
-
-
-
-
-
-
-
-
+⭐ *Always learning, building and exploring new technologies.*
