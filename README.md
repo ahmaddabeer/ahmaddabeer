@@ -30,7 +30,7 @@ My functional Android applications built with modern development practices.
 |---|---|---|
 | **QRGen** | QR Code Generator Android Application | [Repository ↗](https://github.com/ahmaddabeer/QRGen) |
 | **SIET First Year** | Academic papers and study resources for students | [Repository ↗](https://github.com/ahmaddabeer/SIET-First-Year) |
-| **Nexlevr**   | Clone of Nexlevr.com  |[Repository ](https://github.com/ahmaddabeer/Nexlevr)  |
+| **Nexlevr**   | Clone of Nexlevr.com  |[Repository ](https://github.com/ahmaddabeer/NEXLEVER)  |
 
 ---
 
