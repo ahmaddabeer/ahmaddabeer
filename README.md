@@ -28,10 +28,11 @@ My functional Android applications built with modern development practices.
 
 | Project | Description | |
 |---|---|---|
-| **ExpensesTracker** | Track your Expenses  | [Repository ](https://github.com/ahmaddabeer/ExpenseTracker) |
+| **MNote** | Make Note |[Repository  ↗](https://github.com/ahmaddabeer/MNote) |
+| **ExpensesTracker** | Track your Expenses  | [Repository ↗](https://github.com/ahmaddabeer/ExpenseTracker) |
 | **QRGen** | QR Code Generator Android Application | [Repository ↗](https://github.com/ahmaddabeer/QRGen) |
 | **SIET First Year** | Academic papers and study resources for students | [Repository ↗](https://github.com/ahmaddabeer/SIET-First-Year) |
-| **Nexlevr**   | Clone of Nexlevr.com  |[Repository ](https://github.com/ahmaddabeer/NEXLEVER)  |
+| **Nexlevr**   | Clone of Nexlevr.com  |[Repository ↗](https://github.com/ahmaddabeer/NEXLEVER)  |
 
 ---
 
