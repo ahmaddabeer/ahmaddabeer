@@ -34,7 +34,6 @@ My functional Android applications built with modern development practices.
 | **MNote** | Make Note |[Repository ↗](https://github.com/ahmaddabeer/MNote) |
 | **ExpensesTracker** | Track your Expenses  | [Repository ↗](https://github.com/ahmaddabeer/ExpenseTracker) |
 | **QRGen** | QR Code Generator Android Application | [Repository ↗](https://github.com/ahmaddabeer/QRGen) |
-| **SIET First Year** | Academic papers and study resources for students | [Repository ↗](https://github.com/ahmaddabeer/SIET-First-Year) |
 | **Nexlevr**   | Clone of Nexlevr.com  |[Repository ↗](https://github.com/ahmaddabeer/NEXLEVER)  |
 
 ---
@@ -48,6 +47,7 @@ Projects built while learning programming and Android development.
 - [RandView](https://github.com/ahmaddabeer/RandView)
 - [To-Do List](https://github.com/ahmaddabeer/To-Do_List)
 - [Iknow Repeat](https://github.com/ahmaddabeer/iknow_Repeat)
+- [SIET Fist Year](https://github.com/ahmaddabeer/SIET-First-Year)
 
 ---
 
